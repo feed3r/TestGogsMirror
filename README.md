@@ -8,4 +8,4 @@ This is a test of commit from LO laptop
 
 NEw TEst for Mirroring to GITHUB
 
-Again
+NON SI TROVANO I FILE DI LOG
